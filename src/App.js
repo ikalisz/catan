@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Hexagon from './Components/Hexagon'
+import GameBoard from './Components/GameBoard'
 
 function App() {
   return (
-    <Hexagon />
+    <GameBoard/>
   );
 }
 
